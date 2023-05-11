@@ -1,0 +1,15 @@
+C:\ProgramacaoDesktop\AtividadeExecutavel\bin\Debug\net7.0-windows\AtividadeExecutavel.exe
+C:\ProgramacaoDesktop\AtividadeExecutavel\bin\Debug\net7.0-windows\AtividadeExecutavel.deps.json
+C:\ProgramacaoDesktop\AtividadeExecutavel\bin\Debug\net7.0-windows\AtividadeExecutavel.runtimeconfig.json
+C:\ProgramacaoDesktop\AtividadeExecutavel\bin\Debug\net7.0-windows\AtividadeExecutavel.dll
+C:\ProgramacaoDesktop\AtividadeExecutavel\bin\Debug\net7.0-windows\AtividadeExecutavel.pdb
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.csproj.AssemblyReference.cache
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.AssemblyInfoInputs.cache
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.AssemblyInfo.cs
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.csproj.CoreCompileInputs.cache
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.dll
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\refint\AtividadeExecutavel.dll
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.pdb
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\AtividadeExecutavel.genruntimeconfig.cache
+C:\ProgramacaoDesktop\AtividadeExecutavel\obj\Debug\net7.0-windows\ref\AtividadeExecutavel.dll
